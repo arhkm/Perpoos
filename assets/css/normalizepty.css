@@ -1,0 +1,50 @@
+.navbar{
+	border-radius: 0px !important;
+	border:none !important;
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: white !important;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+	border-color: transparent !important;
+}
+
+.owl-theme .owl-dots, .owl-theme .owl-nav{
+	display: none !important;
+}
+
+body{
+	background-color: #f5f5f5 !important;
+}
+
+.p-menu{
+	background-color: white;
+	height: 60px;
+}
+
+.justify-content-center{
+	display: flex !important;
+	justify-content: center;
+}
+
+.colom-normal{
+	/*text-align: center !important;*/
+	width: 130px !important;
+}
+
+.desc-item{
+	box-sizing: border-box;
+	width: 70px;
+	float: left;
+	display: inline;
+}
+
+.desc-item span{
+	margin-right: 5px;
+}
+
+.p-clear{
+	clear: both;
+}
